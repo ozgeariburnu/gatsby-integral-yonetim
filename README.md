@@ -1,20 +1,4 @@
-# How to Configure / How to Install \*\*
-
-After downloading the file from ThemeForest, You will find StoryHub.zip file.Then unzip
-
-StoryHub.zip file and run the following commands. We have 9 different Blog demos. They are
-
-1. Agency Blog
-2. Agency Blog Modern
-3. Beauty Blog
-4. Personal Blog
-5. Personal Blog Minimal
-6. Personal Blog Lite
-7. Image Blog
-8. Photography Blog Minimal
-9. Tinder Like Blog
-
-## Configuration:
+# Gatsby Integral Yönetim
 
 Before running any template you need to set some `env` values on `.env.development` file which is define within every package's root.
 
@@ -27,32 +11,14 @@ INSTAGRAM_ID="put_your_instagram_id_here"
 INSTAGRAM_ACCESS_TOKE="put_your_instagram_access_token_here"
 ```
 
-**If you want to run `Agency Blog` on Gatsby Js server , then run below command on StoryHub Folder**
+**If you want to run Agency Blog Modern on Gatsby Js server , then**
 
 ```bash
 $ yarn
-$ yarn dev:agency
+$ yarn dev
 ```
 
-Then , please go to address `localhost:8000` on your browser and You will find `Agency blog`. Similarly ,
-
-**If you want to run `Personal Blog` on Gatsby Js server,then**
-
-```bash
-$ yarn
-$ yarn dev:personal
-```
-
-Then , please go to address `localhost:8000` on your browser and You will find `personal blog`.
-
-**If you want to run Personal Blog Minimal on Gatsby Js server , then**
-
-```bash
-$ yarn
-$ yarn dev:personal-minimal
-```
-
-Then , please go to address `localhost:8000` on your browser and You will find `personal blog minimal` demo.
+Then , please go to address `localhost:8000` on your browser and You will find `agency-blog-modern` demo.
 
 NOTE: Other packages will follow same conventions (please see `package.json` for more info)
 
@@ -72,29 +38,9 @@ NOTE: Other packages will follow same conventions (please see `package.json` for
 
 7. Styled System and Styled Components
 
-**Folder Structure**
+**agency-blog-modern**
 
-Go to StoryHub - > packages folder .
-
-After entering to packages folder, You will find some other folders.
-
-1. agency-blog
-2. agency-blog-modern
-3. beauty-blog
-4. personal-blog
-5. personal-blog-lite
-6. personal-blog-minimal
-7. image-blog
-8. photography-blog-minimal
-9. tinder-blog
-
-**agency-blog, personal-blog, personal-blog-minimal, image-blog, photography-blog-minimal**
-
-The main Gatsby Structure are done in these folder. Each folder(agency-blog/personal-blog/ personal-blog-minimal,etc.) is a separate gatsby project. For details, You can follow the gatsby doc (https://www.gatsbyjs.org/docs/)
-
-**agency-blog**
-
-You will find the main gatsby structure in this folder. We will discuss the main folder structure and their usage.
+The main Gatsby Structure are done in these folder. For details, You can follow the gatsby doc (https://www.gatsbyjs.org/docs/). You will find the main gatsby structure in this folder. We will discuss the main folder structure and their usage.
 
 **content**
 
@@ -104,19 +50,16 @@ In Content folder you will find two folder. ‘assets’ and ‘blog’
 
 You will find all the assets like images, videos in this folder.
 
-2. Blog
+2. blog
 
-You will find blog posts in this folder. Each folder like(installing-Multiple-Versions,
-
-art-of-perception) is a single post. You will find an `index.md` file in each folder. In this
-
-`index.md` file, you can write your post(We have a detailed section about how to write a post). You can keep your images related in your post in this folder.
+You will find blog posts in this folder. Each folder like(installing-Multiple-Versions, art-of-perception) is a single post. You will find an `index.md` file in each folder. In this `index.md` file, you can write your post(We have a detailed section about how to write a post). You can keep your images related in your post in this folder.
 
 **src**
 
 Inside the ’src’ folder, you will find some folders like components, containers, images, pages, templates, theme.
 
-Components
+**components**
+
 In the src->component folder, you will find the component which is needed only for this agency-blog template. All the codes are written in Typescript Containers.
 
 In the src->containers folder, we have written all of our codes part by part. You will also find the style.js file . All the codes are written in Typescript.
@@ -133,15 +76,13 @@ All the page templates are written in this fold
 
 colors.tsx : in this file, you can keep all of the custom colors for your specific landing pages. customVariant.tsx : For writing custom variants. index.tsx : all of the style props.
 
-## We have used styled system for this folder structure (https://github.com/jxnblk/styled-system ) . You can also follow this article for clearing your concept https://varun.ca/styled-system/.
+We have used styled system for this folder structure (https://github.com/jxnblk/styled-system). You can also follow this article for clearing your concept https://varun.ca/styled-system/.
 
-The other templates like personal-blog, personal-blog-minimal are built with same structures.
+The other templates like agency-blog-modern are built with same structures.
 
 ## How to write a blog post
 
-To write a blog post, please go to packages -> (agency-blog/personal-blog/
-
-personal-blog-minimal) -> content -> blog folder and create a folder with a name
+To write a blog post, please go to packages -> agency-blog-modern -> content -> blog folder and create a folder with a name
 
 like(art-of-perfection) . Then create a md file named index.md and then write your post in this format
 
@@ -160,21 +101,11 @@ slug: 'sharing-content-that-makes-other'
 
 ## Instagram Token
 
-To add instagram token, please go to packages -> (agency-blog/personal-blog/
-
-personal-blog-minimal) -> gatsby-config.js-> go to 'resolve:gatsby-source-instagram' and put your instagram username,access,id token there. For further info, please check this link https://www.gatsbyjs.org/packages/gatsby-source-instagram
-
-## Disqus Name
-
-To add Disqus token, please go to packages -> (agency-blog/personal-blog/
-
-personal-blog-minimal) -> env.development and packages -> (agency-blog/personal-blog/
-
-personal-blog-minimal) env.production and put your Disqus name there.
+To add instagram token, please go to packages -> agency-blog-modern -> gatsby-config.js-> go to 'resolve:gatsby-source-instagram' and put your instagram username,access,id token there. For further info, please check this link https://www.gatsbyjs.org/packages/gatsby-source-instagram
 
 ## Mailchimp Integration
 
-To add mailchimp integration, please go to packages -> (agency-blog/personal-blog/ personal-blog-minimal) -> gatsby-config.js-> go to 'resolve:gatsby-plugin-mailchimp' and put your endpoint there. For further info, please check this link https://www.gatsbyjs.org/packages/gatsby-plugin-mailchimp
+To add mailchimp integration, please go to packages -> agency-blog-modern -> gatsby-config.js-> go to 'resolve:gatsby-plugin-mailchimp' and put your endpoint there. For further info, please check this link https://www.gatsbyjs.org/packages/gatsby-plugin-mailchimp
 
 ## Deployment
 
