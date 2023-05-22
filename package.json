@@ -10,7 +10,7 @@
   "scripts": {
     "clean": "lerna clean --yes && rimraf node_modules",
     "clean:gatsby": "lerna run --parallel clean",
-    "dev": "yarn workspace @blog/modern-agency develop",
+    "dev": "export NODE_OPTIONS=--openssl-legacy-provider && yarn workspace @blog/modern-agency develop",
     "build": "yarn workspace @blog/modern-agency build",
     "serve": "yarn workspace @blog/modern-agency serve"
   },
@@ -30,5 +30,6 @@
     "*.{js,md,css}": [
       "prettier --trailing-comma es5 --single-quote --write"
     ]
-  }
+  },
+  "dependencies": {}
 }
