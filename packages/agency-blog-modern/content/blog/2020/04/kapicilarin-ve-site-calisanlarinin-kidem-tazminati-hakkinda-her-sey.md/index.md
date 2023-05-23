@@ -15,7 +15,7 @@ Apartman ve sitelerde çalışan kapıcılar ve diğer personeller, 4857 sayıl�
 2. [Kapıcıların ve Site Çalışanlarının Kıdem Tazminatına Hak Kazanma Şartları Nelerdir?](#kapicilarin-ve-site-calisanlarinin-kidem-tazminatina-hak-kazanma-sartlari-nelerdir)
 3. [Kapıcıların ve Site Çalışanlarının Kıdem Tazminatını Kim Öder?](#kapicilarin-ve-site-calisanlarinin-kidem-tazminatini-kim-oder)
 4. [Kapıcıların ve Site Çalışanlarının Kıdem Tazminatının Hesaplanması](#kapicilarin-ve-site-calisanlarinin-kidem-tazminatinin-hesaplanmasi)
-5. [Kapıcıların Kıdem Tazminatında Bedava Oturduğu Ev Hesaba Katılır mı?](#kapicilarin-kidem-tazminatinda-bedava-oturdugu-ev-hesaba-katilir-mi)
+5. [Kapıcıların Kıdem Tazminatında Ücretsiz Oturduğu Ev Hesaba Katılır mı?](#kapicilarin-kidem-tazminatinda-ucretsiz-oturdugu-ev-hesaba-katilir-mi)
 6. [Kapıcıların ve Site Çalışanlarının Kıdem Tazminatı Davası Nasıl Açılır?](#kapicilarin-ve-site-calisanlarinin-kidem-tazminati-davasi-nasil-acilir)
 7. [Kapıcıların ve Site Çalışanlarının Kıdem Tazminatında Zamanaşımı Süresi Nedir?](#kapicilarin-ve-site-calisanlarinin-kidem-tazminatinda-zamanasimi-suresi-nedir)
 8. [Profesyonel Site Yöneticiliği Hizmeti Alın](#profesyonel-site-yoneticiliği-hizmeti-alin)
@@ -60,39 +60,30 @@ Yani kapıcının veya site çalışanının görev yaptığı dönemde kat mali
 
 Kapıcıların ve site çalışanlarının kıdem tazminatını hesaplarken kullanılacak formül şöyledir:
 
-**Kapıcının veya site çalışanının brüt ücreti x hizmet süresi (yıl) x 30 = Kıdem Tazminatı**
+**Kapıcının veya site çalışanının brüt ücreti x hizmet süresi (yıl) = Kıdem Tazminatı**
 
-Burada brüt ücret, kapıcının veya site çalışanının aldığı net ücrete vergilerin eklenmesiyle elde edilen tutardır. Hizmet süresi ise kapıcının veya site çalışanının aynı apartman veya sitede kaç yıl çalıştığını gösterir. 30 ise her yıl için verilen günlük ücret sayısıdır.
+Kıdem tazminatı hesaplanmasında çalışanın işyerinde çalıştığı her bir yıl süresi için, brüt ücretin 30 günlük tutarıdır. 30 günlük ücret; normal ücret ve çalışanın aldığı diğer menfaatlerden oluşur. Kaç yıl çalışmış ise en son aldığı brüt ücret ile çalıştığı yıl çarpılır.
 
-Örnek olarak, 5 yıl boyunca aynı sitede kapıcılık yapan ve net 3.000 TL ücret alan bir kişi düşünelim. Bu kişiye ödenecek olan kıdem tazminatını hesaplamak için önce brüt ücretini bulmamız gerekir. Brüt ücret hesaplaması için vergilerin oranını %15 olarak alalım. Buna göre brüt ücret şöyle hesaplanır:
+**Kıdem tazminatı hesaplamasına örnek üzerinden açıklamak gerekirse;**
 
-**Net Ücret / (1 - Vergi Oranı) = Brüt Ücret**
+Giydirilmiş brüt ücreti 4.800 TL ve kıdemi 3 yıl 4 ay 22 gün olan bir işçinin;
 
-**3.000 / (1 - 0,15) = 3.529 TL**
+**4.800 x 3 = 14.400 TL**
+**4.800 / 12 ay x 4 ay = 1.600 TL**
+**4.800 / 365 gün x 22 gün = 289,31 TL**
+**Brüt Toplam = 16.289,31 TL**
+**Damga Vergi %07,59 = 123,63 TL**
+**Kıdem Tazminatı Net =16.165,68 TL**
 
-Brüt ücreti bulduktan sonra formülü uygulayarak kıdem tazminatını hesaplayabiliriz:
+## <a id="kapicilarin-kidem-tazminatinda-ucretsiz-oturdugu-ev-hesaba-katilir-mi">Kapıcıların Kıdem Tazminatında Ücretsiz Oturduğu Ev Hesaba Katılır mı?</a>
 
-**3.529 x 5 x 30 = 529.350 TL**
+Kapıcıların kimi zaman apartman veya sitelerde kendilerine tahsis edilen dairelerde ücretsiz oturdukları görülür. Bu durumda kapıcılara verilen bu imkanın da brüt ücrete dahil edilip edilmeyeceği sorusu akla gelebilir.
 
-Bu durumda kapıcının alacağı kıdem tazminatı 529.350 TL olacaktır.
+Yargıtay'ın yerleşik içtihatlarına göre, kapıcılara verilen ücretsiz konut imkanının brüt ücrete dahil edilmesi gerekir. Ancak bunun için konutun kapıcılara verilmesinin zorunlu olması gerekir. Yani kapıcılara konut verilmesinin sözleşmede belirlenmiş olması veya konutun kapıcılık yapmak için gerekli olması halinde bu imkan brüt ücrete eklenir.
 
-## <a id="kapicilarin-kidem-tazminatinda-bedava-oturdugu-ev-hesaba-katilir-mi">Kapıcıların Kıdem Tazminatında Bedava Oturduğu Ev Hesaba Katılır mı?</a>
+Kapıcının aylık brüt maaşı 4800 TL olsun. Bu kapıcı 15 yıldır çalışıyorsa, kıdem tazminatı 15 x 4800 = 72 bin TL olmaz. Bu son brüt maaşa kapıcıya yapılan düzenli yardımlar da eklenir.
 
-Kapıcıların kimi zaman apartman veya sitelerde kendilerine tahsis edilen dairelerde bedava oturdukları görülür. Bu durumda kapıcılara verilen bu imkanın da brüt ücrete dahil edilip edilmeyeceği sorusu akla gelebilir.
-
-Yargıtay'ın yerleşik içtihatlarına göre, kapıcılara verilen bedava konut imkanının brüt ücrete dahil edilmesi gerekir. Ancak bunun için konutun kapıcılara verilmesinin zorunlu olması gerekir. Yani kapıcılara konut verilmesinin sözleşmede belirlenmiş olması veya konutun kapıcılık yapmak için gerekli olması halinde bu imkan brüt ücrete eklenir.
-
-Konutun brüt ücrete eklenmesinde ise konutun rayiç bedelinin %10'u esas alınır. Rayiç bedel ise konutun piyasa değeridir.
-
-Örneğin, bedava oturduğu evin piyasa değeri 500.000 TL olan bir kapıcı düşünelim. Bu kapıcının brüt ücretine eklenmesi gereken konut bedeli şöyle hesaplanır:
-
-**Konutun Rayiç Bedeli x %10 = Konut Bedeli**
-
-**500.000 x %10 = 50.000 TL**
-
-Bu durumda kapıcının brüt ücretine yıllık 50.000 TL eklenir. Bu da aylık yaklaşık 4.167 TL yapar.
-
-Bu tutar, kapıcının aldığı net ücrete vergiler eklenerek bulunan brüt ücrete ilave edilir. Sonra da kıdem tazminatı formülü uygulanır.
+Örneğin, kapıcı ücretsiz olarak bir evde kalıyorsa ve evin tahmini kira bedeli 1200 TL ise, ayrıca bina tarafından ödenen faturalar da bulunuyorsa ve faturaların ortalama tutarı 350 TL ise, ayrıca kapıcıya yakacak yardımı da yapılıyorsa ve bu yardım aylık 250 TL ise, kapıcının aylık ücreti olan 4800 TL'ye 1200+350+250 TL eklenerek bu ücret 6600 TL olur. Bu durumda, 15 yıl x 6600 TL = 99.000 TL kıdem tazminatı doğar.
 
 ## <a id="kapicilarin-ve-site-calisanlarinin-kidem-tazminati-davasi-nasil-acilir">Kapıcıların ve Site Çalışanlarının Kıdem Tazminatı Davası Nasıl Açılır?</a>
 
